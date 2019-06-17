@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/anova/massanori/GlobalTemperatures/venv"
+set -gx VIRTUAL_ENV "/home/anova/Área de Trabalho/massanori/GlobalTemperatures/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
